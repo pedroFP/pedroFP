@@ -1,23 +1,19 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo8235
-Fork on GitHub1763
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrofp&label=Profile%20views&color=0080c0&style=flat" alt="pedrofp" /> </p>
 
-- 🔭 I’m currently working on **Vform**
+- 🔭 I’m currently working at [Vinko](https://www.linkedin.com/company/vinkodigital/)
 
-- 🌱 I’m currently learning **NodeJS, JAVA, & Javascript**
+- 🌱 I’m currently learning **React & TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pedroFP](https://github.com/pedroFP)
 
-- 💬 Ask me about **Rails**
+- 💬 Ask me about **Rails** and **Ruby**
 
 - 📫 How to reach me **pedro.araya.labra@gmail.com**
 
-- ⚡ Fun fact **I love to play guitar**
+- ⚡ Fun fact **I love to rock climb** 🧗‍♂️ (like almost every dev...)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
