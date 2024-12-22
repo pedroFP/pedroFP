@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrofp&label=Profile%20views&color=0080c0&style=flat" alt="pedrofp" /> </p>
 
-- 🔭 I’m currently working at [Vinko](https://www.linkedin.com/company/vinkodigital/)
-
-- 🌱 I’m currently learning **React & TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/pedroFP](https://github.com/pedroFP)
-
 - 💬 Ask me about **Rails** and **Ruby**
 
 - 📫 How to reach me **pedro.araya.labra@gmail.com**
