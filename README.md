@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **pedro.araya.labra@protonmail.com **
 
-- ⚡ Fun fact **I love to rock climb** 🧗‍♂️ (like almost every dev...)
-
+- ⚡ Fun fact **I love to rock climb** 🧗‍♂️
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pedroarayalabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedroarayalabra" height="30" width="40" /></a>
