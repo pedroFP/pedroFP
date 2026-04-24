@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Rails** and **Ruby**
 
-- 📫 How to reach me **pedro.araya.labra@gmail.com**
+- 📫 How to reach me **pedro.araya.labra@protonmail.com **
 
 - ⚡ Fun fact **I love to rock climb** 🧗‍♂️ (like almost every dev...)
 
